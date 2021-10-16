@@ -63,6 +63,7 @@ body {
 }
 .plan-description a {
   padding-top: 14px;
+  color: var(--Bright-blue);
 }
 .plan-description_subdivision {
   padding-top: 5px;
@@ -76,8 +77,9 @@ body {
   align-items: center;
   gap: 1rem;
   margin-bottom: 10px;
-  margin-bottom: 30px;
+  margin-top: 3px;
 }
+
 #payment-button {
   border: 1px solid black;
   padding: 10px 70px;
